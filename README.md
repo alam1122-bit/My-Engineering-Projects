@@ -12,8 +12,8 @@ Welcome to my project showcase! This repository contains documentation, PCB layo
 - **Features:** Transformer voltage step-down, AC-to-DC rectification, voltage ripple filtering, and adjustable output control.
 - **Year:** 2023
 - **Files & Documentation:**
-  - 📄 [View PCB Layout & Schematic (PDF)](AC_to_DC_Converter.pdf)
-  - 💾 [Download Proteus Simulation File (.pdsprj)](Rectifier.pdsprj)
+  - 📄 [View PCB Layout & Schematic (PDF)](02-Variable-DC-Power-Supply/AC_to_DC_Converter.pdf)
+  - 💾 [Download Proteus Simulation File (.pdsprj)](02-Variable-DC-Power-Supply/Rectifier.pdsprj)
   
 ### 3. Smart Home Automation using ESP8266
 - **Description:** Developed an IoT-based smart home control system using the ESP8266 Wi-Fi module to control electronic appliances remotely via a wireless network.

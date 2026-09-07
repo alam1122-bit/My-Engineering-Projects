@@ -19,6 +19,8 @@ The drawing represents the spatial arrangement of rooms, corridors, stairs, lift
 
 ## 📁 Project Files
 
+2D-Floor-Layout-AutoCAD.png (2D-Floor-Layout-AutoCAD.png)
+
 
 ## 🔐 Privacy & Confidentiality
 

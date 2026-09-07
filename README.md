@@ -30,4 +30,4 @@ Welcome to my project showcase! This repository contains documentation, PCB layo
 * **Privacy:** Identifying institutional and personal information has been redacted from the publicly shared version for privacy and confidentiality.
 * **Files & Documentation:**
 
-  * 🖼️ [View Floor Plan (PNG)](05-2D-Floor-Plan/2D-Floor-Layout-GitHub-Redacted.png)
+  * 🖼️ [View Floor Plan (PNG)](05-Floor-Plan/2D-Floor-Layout-AutoCAD.png)

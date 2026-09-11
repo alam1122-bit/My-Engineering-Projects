@@ -18,6 +18,8 @@ Welcome to my project showcase! This repository contains documentation, PCB layo
 ### 3. Smart Home Automation using ESP8266
 - **Description:** Developed an IoT-based smart home control system using the ESP8266 Wi-Fi module to control electronic appliances remotely via a wireless network.
 - **Features:** Microcontroller programming, Wi-Fi networking, relay module switching, and remote appliance control.
+- **Video:**
+  - 📄 [Video](03-Smart-Home-Automation-using-ESP8266/Smart_Home_Automation_using_ESP8266.mp4)
 
 ### 4. Line Follower Robot Sensor Circuit (TCRT5000)
 - **Description:** Designed and manufactured a custom IR sensor module PCB for a Line Follower Robot using TCRT5000 optical sensors for precise line detection and surface tracking.

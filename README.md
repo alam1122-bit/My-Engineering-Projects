@@ -24,10 +24,9 @@ Welcome to my project showcase! This repository contains documentation, PCB layo
 ### 4. Line Follower Robot Sensor Circuit (TCRT5000)
 - **Description:** Designed and manufactured a custom IR sensor module PCB for a Line Follower Robot using TCRT5000 optical sensors for precise line detection and surface tracking.
 - **Features:** Custom PCB layout, IR emitter/receiver pair integration, and analog-to-digital switching logic.
-- 
-### 5. 2D Floor Plan & Layout
 
-* **Description:** Prepared a 2D floor plan by taking and analyzing physical measurements of an existing floor layout, then converting the measurements into a structured digital drawing using AutoCAD.
+### 5. 2D Floor Plan & Layout
+**Description:** Prepared a 2D floor plan by taking and analyzing physical measurements of an existing floor layout, then converting the measurements into a structured digital drawing using AutoCAD.
 * **Features:** On-site measurement, room dimensioning, spatial layout planning, technical drafting, and 2D floor plan documentation.
 * **Privacy:** Identifying institutional and personal information has been redacted from the publicly shared version for privacy and confidentiality.
 * **Files & Documentation:**

@@ -35,7 +35,7 @@ Welcome to my project showcase! This repository contains documentation, PCB layo
 
   * 🖼️ [View Floor Plan (PNG)](05-Floor-Plan/2D-Floor-Layout-AutoCAD.png)
 
-### 5. Power Supply Module KL-51001
+### 6. Power Supply Module KL-51001
 **Description:** Designed schematics and PCB layouts in Proteus for a laboratory power-supply module. Redesigned PCB based on supervisor feedback and implemented an improved version within a limited project timeframe.
 
 * **Privacy:** Identifying institutional and personal information has been redacted from the publicly shared version for privacy and confidentiality.

@@ -1,3 +1,5 @@
+# Smart Home Automation using ESP8266
+
 ## Overview
 This project focuses on building a customizable, IoT-based **Smart Home Automation System** designed to control household appliances both locally and remotely. The system allows users to switch 4 AC appliances (bulbs) on or off using physical wall switches as well as a mobile app connected via Wi-Fi.
 

@@ -24,16 +24,14 @@ This project focuses on building a customizable, IoT-based **Smart Home Automati
 
 ## Hardware & Components
 * **Microcontrollers:** ESP32 / ESP8266 / Arduino
-* **Actuators:** Relay Modules (Multi-channel), Servo/Stepper Motors
-* **Sensors:** DHT11/DHT22 (Temperature & Humidity), LDR (Light), PIR (Motion)
-* **Networking & Power:** Wi-Fi Module, TP-Link Router / Local Network Gateway, Buck Converters / Power Supply Units
-
+* **Actuators:** Relay Modules (Multi-channel)
+* **Networking & Power:** Router / Local Network Gateway, Buck Converters / Power Supply Units
+* **Appliances:** LED Bulbs
 ---
 
 ## Software & Tools
 * **Development Environment:** Arduino IDE / VS Code with PlatformIO
 * **Programming Languages:** C / C++ / Embedded C
 * **Protocols:** MQTT, HTTP REST API, Wi-Fi 802.11 b/g/n
-* **Simulation & Design:** Proteus Design Suite / Fritzing
 
 ---
